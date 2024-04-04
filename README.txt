@@ -5,3 +5,7 @@
 3. opera
 4. chrome
 5. safari
+
+# Detect Browser
+---
+## click [here](https://azizmaghsuomi.github.io/-Detect-Browser/)
